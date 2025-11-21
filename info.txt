@@ -3,3 +3,4 @@ student 2: pema Tasho
 student 3: Karma 
 student 4: sangay Wangdi
 student 5: john
+student 6: RUB
